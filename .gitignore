@@ -1,0 +1,11 @@
+# Ignore personal images
+bru.jpeg
+*.jpg
+*.png
+*.jpeg
+!placeholder.jpg
+
+# Ignore other sensitive files
+.env
+.DS_Store
+node_modules/
